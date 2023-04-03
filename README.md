@@ -28,7 +28,7 @@ From within CloudShell: </br>
   - Clone this repo
     ```git clone https://github.com/greyinghair/awsorg && cd awsorg```
   - Edit list of account ID's in the array and save
-  - Excute script: ```python awsorg.py```
+  - Excute script: ```python main.py```
   
  ## Outputs
  
