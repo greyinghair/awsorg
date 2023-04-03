@@ -27,3 +27,11 @@ From within CloudShell: </br>
     ```pip install boto3```
   - Clone this repo
     ```git clone https://github.com/greyinghair/awsorg && cd awsorg```
+  - Edit list of account ID's in the array and save
+  - Excute script: ```python awsorg.py```
+  
+ ## Outputs
+ 
+ There should be 2 x output files: </br>
+ 1. ```aws_accounts.csv``` - which contains thr output from the query
+ 2. ```log.txt``` - logfile which will tell you if an account or tag does not exist for one of the elemnets of the accounts being queried
