@@ -35,3 +35,5 @@ From within CloudShell: </br>
  There should be 2 x output files: </br>
  1. ```aws_accounts.csv``` - which contains thr output from the query
  2. ```log.txt``` - logfile which will tell you if an account or tag does not exist for one of the elemnets of the accounts being queried
+ 
+ Download the output via the Actiopns button in Cloudshell the path to file download as: ```awsorg/aws_acounts.csv``` 
